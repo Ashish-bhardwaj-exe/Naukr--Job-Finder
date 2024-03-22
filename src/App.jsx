@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar"
 import Header from "./components/Header"
 import SearchBar from "./components/SearchBar"
 import JobCard from "./components/JobCard"
-import Footer from "./components/footer"
+// import Footer from "./components/footer"
 // import jobData from "./JobDummyData"
 import { useEffect, useState } from "react"
 import { collection, query, orderBy, where, getDocs } from "firebase/firestore";
